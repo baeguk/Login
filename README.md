@@ -1,8 +1,3 @@
-# React + Vite
+Esse projeto feito em React, JS, Scss e html é uma página de login que pega os dados inseridos e emite um alert com essas informações
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/baeguk/Login/assets/102618834/01a02369-9b28-4dce-8c4d-d474c890c8d2)
